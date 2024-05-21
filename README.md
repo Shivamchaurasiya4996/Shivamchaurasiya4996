@@ -1,5 +1,5 @@
 # Hi, I'm Shivam! 👋
-* 🔥 Software Developer grinding hard to make something cool
+* 🔥 React Developer grinding hard to make something cool
 * ✨ Favorite Tech: JavaScript, React, C++ ...
 * 📓 I’m currently learning DS and Algo... 😭
 * 📧 Email: shivamchauraisya4996@gmail.com
